@@ -1,0 +1,64 @@
+{
+	"details":{
+		"image":"images.jpg",
+		"name":"indrani",
+		"phoneno":"+91-9494181545",
+		"email":"indranichamallamudi25@gmail.com",
+		"address":"vignan's nirula college,guntur."
+	},
+	"career":{
+		"info":"To purchase a challenging career ........"
+
+	},
+	"education":[
+	{
+		"qualification":"B.Tech",
+		"institute":"vignan's nirula college",
+		"year":"2016-2020",
+		"percentage":"95%"
+
+	},
+	{
+		"qualification":"Intermediate",
+		"institute":"sri chaitanya college",
+		"year":"2014-2016",
+		"percentage":"98%"
+
+	},
+	{
+		"qualification":"SSC",
+		"institute":"Rama Krishna public school",
+		"year":"2014",
+		"percentage":"96%"
+
+	}
+
+],
+	"skills":[{
+		"title":"programming languages",
+		"info":["c","java","c++","python","R"]
+    },
+    {     
+         "title":"Database",
+		"info":["oracle","mysql","sql"]
+
+	},
+	{
+	    "title":"Operating systems",
+		"info":["windows","linux","ubuntu"]
+
+    }
+
+],
+	"achievements":[
+		{
+        "title":"first in shettle"
+    },
+    {
+    	"title":"got certified in IOT"
+    },
+    {
+    	"title":"got first prize for singing"
+    }
+]
+}
